@@ -67,9 +67,9 @@ The following header files on top of the default ones added by L-Edit at default
 <!-- MAKING CHANGES -->
 ## Usage
 
-* Drag and drop the UPI macro into L-Edit and go to Tools -> Execute Script or simply the F5 hotkey
+* Drag and drop the UPI macro into L-Edit and go to Tools -> Execute Macro
 * Alternatively, you could go to Tools -> Macro -> Load, navigate to the path of the script. Click on Run
-* Ensure you have made a selection in the design for the objects you intend to grown on a specified layer. Otherwise the script will show a **no selection** error.
+* Ensure you have made a selection in the design for the objects you intend to check on the specified layer in the script. Otherwise the script will show a **no selection** error.
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -89,16 +89,15 @@ Contributions are what makes EDA solutions the ultimate dream team. Any contribu
 <!-- CHANGE LOG -->
 ## Change log
 
-**1 June 2021** Created by James Mutumba
+**1 June 2021** Created repo
 
 <!-- LICENSE -->
 ## License
 
-Not to be distributed to anyone outside EDA solutions. 
-
+MIT License
 <!-- CONTACT -->
 ## Contact
 
-James Mutumba  - jamesmutumba@eda-solutions.com
+support@eda-solutions.com
 
 Project Link: [overlapping_area](https://github.com/EDA-Solutions-Limited/overlapping_area)
